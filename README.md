@@ -12,7 +12,9 @@ The biggest environmental risk factor for human health is air pollution. Prematu
 
 ## Relevant Links
 
-- [Description](#!)
-- [Project Plan](#!)
+- [Description](https://github.com/aikamadeitah/Final-Project/blob/main/Description.md)
+- [Project Plan](https://github.com/aikamadeitah/Final-Project/blob/main/Documentation/project_plan.md)
+- [Dashboard](https://blynk.cloud/dashboard/14259/global/filter/93711/organization/14259/devices/41767/dashboard)
+- [Video](https://drive.google.com/drive/folders/17C35iI0uKuPYU9LkYM5tc-Z6DQlHanIq?usp=sharing)
 
 ***
